@@ -1,0 +1,15 @@
+# Ignorar ambiente virtual
+venv/
+.env
+
+# Ignorar arquivos compilados do Python
+__pycache__/
+*.py[cod]
+
+# Ignorar arquivos de sistema do Mac
+.DS_Store
+
+# (Opcional) Ignorar vídeos de teste pesados para não lotar o GitHub
+# Se seus vídeos forem pequenos, pode remover as linhas abaixo
+*.mp4
+*.avi
